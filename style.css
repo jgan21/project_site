@@ -156,6 +156,12 @@
   flex-wrap: wrap;
 }
 
+.social_media{
+  height: 42px;
+  width: 50px;
+  margin-bottom: 20px;
+}
+
 .contact_container h2 {
   margin-top: 80px;
   margin-bottom: 20px;
